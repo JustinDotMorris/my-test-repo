@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1,h2,h3{
+    font-family: 'Hind', sans-serif;
+}
+
+h4,h5,h6,p{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#boldandupper:hover{
+    font-weight:bolder;
+    text-transform: uppercase;
+}
+#underlineandgreen:active{
+    text-decoration: underline;
+    color: green;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+
